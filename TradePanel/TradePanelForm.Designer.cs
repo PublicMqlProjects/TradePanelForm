@@ -11,7 +11,6 @@ namespace TradePanel
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
-        [STAThread]
         private void InitializeComponent()
         {
             this.AskLabel = new System.Windows.Forms.Label();
